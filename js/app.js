@@ -1,7 +1,7 @@
 // Initial position of the map
 var map;
 function initMap() {
-    var initPlace = {lat: 35.69730365157654, lng: 139.8259416299095}
+    var initPlace = {lat: 35.69730365157654, lng: 139.8259416299095};
     map = new google.maps.Map(document.getElementById('map'), {
         center: initPlace,
         zoom: 13,
