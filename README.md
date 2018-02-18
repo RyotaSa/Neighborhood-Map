@@ -11,7 +11,9 @@ The project features FoursqureAPI and Knockout.js.
 3. Need a working internet connection for getting information from Google Maps, Foursqure, jQuery, and Knockout  
 
 **Bibliography**  
-
+https://developer.foursquare.com/  
+https://developers.google.com/maps/documentation/javascript/tutorial  
+https://www.youtube.com/watch?v=Zxf1mnP5zcw  
 https://qiita.com/yusuke_nozoe/items/6d1af008c87546e65c48  
 Tutorial of Knockoutjs:http://learn.knockoutjs.com/#/?tutorial=intro  
 https://developers.google.com/maps/documentation/javascript/tutorial  
