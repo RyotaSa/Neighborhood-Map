@@ -1,0 +1,44 @@
+html,
+body {
+    font-family: Arial;
+    height: 100%;
+    margin: 0;
+}
+
+#map {
+    height: 100%;
+}
+
+#pageTitle{
+    position: fixed;
+    top: 0px;
+    left: 5%;
+    width: 30%;
+}
+
+#searchbox {
+    position: fixed;
+    left: 5%;
+    top: 45px;
+    height: 30px;
+    width: 18%;
+    font-size: 15px;
+}
+
+#list_view {
+    position: fixed;
+    height: 20%;
+    overflow: auto;
+    top: 85px;
+    left: 5%;
+    width: 15%;
+    font-size: 13px;
+    background-color: black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;/* for Safari and Chrome */
+    -moz-border-radius: 5px;/* for Firefox */
+}
+
+#list_name {
+    color: red;
+}
