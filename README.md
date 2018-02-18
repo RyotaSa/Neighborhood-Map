@@ -1,7 +1,7 @@
 # Neighborhood-Map
 
 **Description**  
-This is neighborhood map app to show some places where are located around my house. Specifically, there are noodle shops.  
+This is neighborhood map app to show some places where are located around my house. Specifically, there are some of noodle shops in Tokyo.  
 The project features FoursqureAPI and Knockout.js.  
 
 **Instruction**  
