@@ -24,3 +24,4 @@ https://discussions.udacity.com/t/foursquare-results-undefined-until-the-second-
 https://qiita.com/koogawa/items/df92ec1c7eb750312b77  
 kacymckibben:https://github.com/kacymckibben/project-5-app  
 https://discussions.udacity.com/t/any-way-to-reduce-infowindow-content-on-mobile/40352/31  
+https://discussions.udacity.com/t/how-to-test-for-a-google-maps-error/183447  
