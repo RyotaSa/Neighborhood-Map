@@ -10,9 +10,13 @@ function initMap() {
 }
 
 // Googlemap Error handling
-function mapError() {
-    document.getElementById('error').innerHTML = "<h2>Sorry, Google Maps is not working.</h2>";
-    console.log("Google maps error.");
+// function mapError() {
+//     document.getElementById("map").innerHTML = "<h3>Sorry, Google Maps is not working.</h3>";
+//     // console.log("Google maps error.");
+// }
+
+function mapError(){
+    alert("Sorry, Google Maps is not working.");
 }
 
 // Locations where show some spots

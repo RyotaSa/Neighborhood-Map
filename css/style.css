@@ -42,3 +42,36 @@ body {
 #list_name {
     color: red;
 }
+
+@media only screen and (max-width: 768px) {
+
+    h2 {
+      font-size: 12px;
+    }
+
+    #pageTitle {
+    position: fixed;
+    top: 0px;
+    width: 35%;
+    left: 10%;
+    }
+
+    #searchbox {
+    position: fixed;
+    left: 10%;
+    top: 40px;
+    height: 25px;
+    width: 30%;
+    font-size: 8px;
+    }
+
+    #list_view{
+    position: fixed;
+    height:27%;
+    top: 70px;
+    left: 5%;
+    width: 35%;
+    background-color: black;
+    font-size: 12px;
+    }
+}
